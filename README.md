@@ -32,6 +32,9 @@ an intro to react
 ### React Router
 - Allows for different components to be rendered depending on what route is hit. 
 
+### Lifting State
+- A method to update state from a lower component to a higher component
+
 ### Component Heirarchy
                App
               /   \
