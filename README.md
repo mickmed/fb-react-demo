@@ -13,6 +13,7 @@ an intro to react
 - Change data without refreshing the page
 - SEO friendly
 - Fun to learn and easier to develop in
+- Hundreds of NPM packages to modify your site
 
 ### Components
 - Key building block for React site development
