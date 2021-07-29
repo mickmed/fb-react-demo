@@ -34,8 +34,8 @@ an intro to react
 
 ### Component Heirarchy
                App
-                |
-         Header    Layout
+              /   \
+         Header   Layout
          /       /   |    \
       Nav      PLP   PDP  Cart
       
