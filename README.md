@@ -33,6 +33,10 @@ an intro to react
 ### React Router
 - Allows for different components to be rendered depending on what route is hit. 
 
+### Mapping, Filtering, etc
+- Rendering items on page
+- Dealing with relational data (we'll look at a filter menu)
+
 ### Lifting State
 - A method to update state from a lower component to a higher component
 
@@ -42,5 +46,18 @@ an intro to react
          Header   Layout
          /       /   |    \
       Nav      PLP   PDP  Cart
-      
-    
+       
+### React Forms
+- React controlled forms
+- onChange
+- onSubmit
+- updating state
+- spread operator
+
+### Object deconstruction
+- e.g., props
+
+### Array deconstruction
+- e.g., state
+
+
